@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shak23
-- 👀 I’m interested in Python and PowerShell
-- 🌱 I’m currently learning Python
+- 👀 I’m interested  PowerShell
+- 🌱 I’m currently learning PowerShell 
 - 💞️ I’m looking to collaborate on OpenSource projects once I have the programming chops. 
 - 📫 How to reach me ...
 
